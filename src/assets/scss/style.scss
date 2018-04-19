@@ -1,0 +1,12 @@
+$white: #fff;
+$red: #777;
+
+.card {
+	background-color: $red;
+
+
+	&__title	{
+		color: $white;
+		font-size: 14px;
+	}
+}
